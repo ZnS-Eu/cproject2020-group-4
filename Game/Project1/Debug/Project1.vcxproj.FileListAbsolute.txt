@@ -1,0 +1,4 @@
+E:\Cproject2020\Game\Project1\Debug\Project1.exe
+E:\Cproject2020\Game\Project1\Debug\Project1.pdb
+C:\Users\lenovo\Desktop\Game\Project1\Debug\Project1.exe
+C:\Users\lenovo\Desktop\Game\Project1\Debug\Project1.pdb

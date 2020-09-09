@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Cproject2020\Game\Project1\player.h(2,18): warning C4091: “extern ”: 没有声明变量时忽略“State”的左侧
+  Project1.vcxproj -> E:\Cproject2020\Game\Project1\Debug\Project1.exe
